@@ -1,0 +1,1 @@
+简述javascript设计模式
